@@ -201,7 +201,7 @@ header {
 }
 
 /* Responsive css  */
-@media (max-width: 991px) {
+@media (max-width: 1040px) {
   .main {
     padding: 40px;
   }
