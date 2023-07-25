@@ -76,7 +76,7 @@ header {
 
 .content .text {
   width: 100%;
-  max-width: 700px;
+  max-width: 600px;
 }
 
 .content .text h2 {
@@ -201,7 +201,7 @@ header {
 }
 
 /* Responsive css  */
-@media (max-width: 1040px) {
+@media (max-width: 993px) {
   .main {
     padding: 40px;
   }
